@@ -5,4 +5,5 @@
 # 사용프로그램
 이클립스
 # 출력문
-![image](https://user-images.githubusercontent.com/122009564/210938384-697aefd7-d54c-467b-880e-7f9c49107416.png)
+![image](https://user-images.githubusercontent.com/122009564/210943890-3ff6814b-3b43-441e-851a-3540d30cdcfd.png)
+
